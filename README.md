@@ -30,7 +30,7 @@
   PORT = <YOUR PORT NUMBER>
   MONGO_URL = <YOUR MONGODB URI>
   ```
-- Click on this link to get the sample_data: https://github.com/jhonsnow456/FamilyTreeAPI/tree/main/sample_data
+- Click on this link to get the sample_data: https://github.com/Goodboy0416/FamilyTreeAPI/tree/main/sample_data
 - upload the [```sample_data```](https://github.com/Goodboy0416/FamilyTreeAPI/tree/main/sample_data) of electorals in json format in your mongoDB [electoral collection](https://github.com/Goodboy0416/FamilyTreeAPI/blob/main/sample_data/electoral_data.json). 
 - upload the [```sample_data```](https://github.com/Goodboy0416/FamilyTreeAPI/tree/main/sample_data) of places in json format in your mongoDB [places collection](https://github.com/Goodboy0416/FamilyTreeAPI/blob/main/sample_data/places_data.json).
 - Use NodeJS version 16LTS or higher
